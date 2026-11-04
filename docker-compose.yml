@@ -5,3 +5,13 @@ services:
     ports:
       - "8000:8000"
     restart: unless-stopped
+
+    services:
+  heart-disease-api:
+    build: .
+    container_name: heart-disease-api
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+    restart: unless-stopped
