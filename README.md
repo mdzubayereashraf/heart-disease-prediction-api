@@ -172,7 +172,7 @@ Python
 Docker Desktop
 Git
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/heart-disease-prediction-api.git
+git clone https://github.com/mdzubayereashraf/heart-disease-prediction-api.git
 2. Navigate to the Project
 cd heart-disease-prediction-api
 3. Build and Run with Docker Compose
