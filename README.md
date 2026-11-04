@@ -40,20 +40,20 @@ The dataset contains 13 input features and one target variable.
 
 ### Input Features
 
-| Feature | Descrip
- age	   Age of the patient
-sex	       Sex
-cp	       Chest pain type
-trestbps   Resting blood pressure
-chol	   Cholesterol level
-fbs	       Fasting blood sugar
-restecg	   Resting electrocardiographic results
-thalach	   Maximum heart rate achieved
-exang	   Exercise-induced angina
-oldpeak	   ST depression
-slope	   Slope of the ST segment
-ca	       Number of major vessels
-thal	   Thalassemia
+| Feature | Descrip:
+ age	  - Age of the patient
+sex	     -  Sex
+cp	     -  Chest pain type
+trestbps  - Resting blood pressure
+chol	 -  Cholesterol level
+fbs	     -  Fasting blood sugar
+restecg	 -  Resting electrocardiographic results
+thalach	 -  Maximum heart rate achieved
+exang	 -  Exercise-induced angina
+oldpeak	-   ST depression
+slope	  - Slope of the ST segment
+ca	   -    Number of major vessels
+thal	 - Thalassemia
 
 Target Variable:
 
